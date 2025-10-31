@@ -1,0 +1,5 @@
+{
+  "name": "jinsuni",
+  "description": "An application for operators to match knights with clients for missions. Upon mission completion, the knight's relay count is increased, and the client is marked for removal.",
+  "requestFramePermissions": []
+}
